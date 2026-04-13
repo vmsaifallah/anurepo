@@ -1,10 +1,10 @@
 Dear <user>
-ANU 5.2 is Here: Evolution of the Ecosystem
-We are excited to announce the official release of ANU 5.2. This update focuses on tightening the integration between our core services and refining the modular architecture that makes the system unique.
-What’s New in 5.2?
-    eKernel Optimization: Version 5.2 further stabilizes the eKernel rewrite. As a reminder, the eKernel architecture is exclusive to Version 5 and higher; this update improves responsiveness and resource management for all modern ANU environments.
+ANU 5.3 is Here: Evolution of the Ecosystem
+We are excited to announce the official release of ANU 5.3. This update focuses on tightening the integration between our core services and refining the modular architecture that makes the system unique.
+What’s New in 5.3?
+    eKernel Optimization: Version 5.3 further stabilizes the eKernel rewrite. As a reminder, the eKernel architecture is exclusive to Version 5 and higher; this update improves responsiveness and resource management for all modern ANU environments.
     Enhanced Authentication: We’ve streamlined anuauth, making it even easier to generate and manage secure authentication codes directly within your workflow.
     Middleware Refinements: Under-the-hood improvements to the HeadFramework ensure better compatibility for web-native apps, offering a smoother experience for developers building within the ANU sandbox.
     System Fluidity: General performance patches to the core subsystem, ensuring that both terminal-based operations and graphical components run with minimal overhead.
-Installation & Compatibilit
+Installation & Compatibility
 ANU 5.2 is available for deployment immediately. Please ensure your environment meets the Version 5 requirements before initiating the upgrade to ensure eKernel remains active and responsive.

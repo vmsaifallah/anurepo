@@ -1,5 +1,7 @@
 this is ANU's release diary
 the less #'s a line has , the more important it is
 ________________________________________________________________
+### 4/24/2026 aether "stable kernel" released as "aetherkern" in banana
 # 4/24/2026 ANU 6 is released to public
 ## 4/25/2026 ANU 6 kernel errors were patched (skern.pipe couldn't parse kernel requests)
+# 4/25/2026 fixed ANU skern.drv kernel parsing error

@@ -5,3 +5,5 @@ ________________________________________________________________
 # 4/24/2026 ANU 6 is released to public
 ## 4/25/2026 ANU 6 kernel errors were patched (skern.pipe couldn't parse kernel requests)
 # 4/25/2026 fixed ANU skern.drv kernel parsing error
+# 6/13/2026 made new driver for raw input known as "inputdrv.drv"
+# 6/16/2026 ANU 7 is released to public 
